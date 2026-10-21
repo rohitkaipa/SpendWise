@@ -1,10 +1,10 @@
-# SpendWise 💸
+# SpendWise
 
 SpendWise is a modern, feature-rich Android personal finance tracker designed to help users effortlessly log expenses and income while managing multi-currency conversions on the fly—even when completely offline.
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 - **Reactive UI**: Built entirely with **Jetpack Compose** and **Material 3**, utilizing `StateFlow` and `ViewModels` for unidirectional data flow and real-time updates.
 - **Local-First Persistence**: Powered by **Room Database** to securely store transaction history locally. Your data remains fully accessible even when offline or after restarting the app.
@@ -15,7 +15,7 @@ SpendWise is a modern, feature-rich Android personal finance tracker designed to
 
 ---
 
-## 🏛️ Architecture & Clean Layering
+## Architecture & Clean Layering
 
 SpendWise follows official Google Android architecture guidelines, ensuring separation of concerns, testability, and scalability:
 
@@ -33,7 +33,7 @@ com.example.spendwise/
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **UI Framework**: Jetpack Compose, Material 3, Compose BOM
 - **Architecture**: MVVM (Model-View-ViewModel) with Unidirectional Data Flow (UDF)
@@ -45,7 +45,7 @@ com.example.spendwise/
 
 ---
 
-## 🧪 Running Tests
+## Running Tests
 
 To run the local unit test suite (validating currency calculations and conversion edge cases):
 ```bash

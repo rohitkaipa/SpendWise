@@ -54,15 +54,15 @@ To run the local unit test suite (validating currency calculations and conversio
 
 ---
 
-## 🗺️ Roadmap & Future Enhancements
+## Roadmap & Future Enhancements
 
-- [ ] Monthly & Weekly spending analytics charts
-- [ ] Custom budget limits and spending alerts
-- [ ] Biometric authentication (Jetpack Biometric)
-- [ ] Cloud backup and sync
+- Monthly & Weekly spending analytics charts
+- Custom budget limits and spending alerts
+- Biometric authentication (Jetpack Biometric)
+- Cloud backup and sync
 
 ---
 
-## 👤 Author
+## Author
 
 **Made by Rohit Kaipa**
